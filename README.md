@@ -9,6 +9,6 @@ What do I intend to create:
 - store the company intruments into a database
 - users access 
 - add, edit, delete records from an user interface (minimal or template based)
-- make lists and tables (format as PDF or XML based documents) with the records in a few clicks
+- make lists, tables and instructions (format as HTML, PDF or XML) with the records in a few clicks
 
 - extra: make PDFs with signatures when is required. 
